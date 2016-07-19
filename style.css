@@ -363,7 +363,6 @@ a:hover {
     }
 
 
-
 .gif{
     width: 100%;
     display: flex;
@@ -373,9 +372,11 @@ a:hover {
 }
 
 .gif img{
-    margin: 0 auto;
-    min-width: 0px;
+    margin: 20px auto;
+    min-width: 200px;
+    height: 590px
 }
+
 
 
 /* iPhone */
@@ -558,13 +559,11 @@ a:hover {
     height: auto;
 }
 
-.gif{
-    width: 100%;
+    .gif img{
+    margin: 20px auto;
+    width: 650px;
+    height: 100%;
 }
 
-.gif img{
-    margin: 40px auto;
-    width: 400px; 
-}
 
 
