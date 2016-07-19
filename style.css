@@ -363,6 +363,7 @@ a:hover {
     }
 
 
+
 .gif{
     width: 100%;
     display: flex;
@@ -373,7 +374,7 @@ a:hover {
 
 .gif img{
     margin: 0 auto;
-    min-width: 400px;
+    min-width: 0px;
 }
 
 
@@ -530,6 +531,16 @@ a:hover {
         padding-left: 15px;
     }
 
+.carousel-cell-abm{
+    max-width: 450px;
+    padding-left: 15px;
+    
+    
+}
+
+.carousel-cell-abm gif{
+    max-width: 300px;
+    
     
 }
 
@@ -553,5 +564,7 @@ a:hover {
 
 .gif img{
     margin: 40px auto;
-    width: 600px; 
+    width: 400px; 
 }
+
+
